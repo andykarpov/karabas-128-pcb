@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "karabas_128")(type "KiCad")(uri "$(KIPRJMOD)/karabas_128.pretty")(options "")(descr ""))
+)
