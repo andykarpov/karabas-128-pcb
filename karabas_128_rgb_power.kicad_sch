@@ -3140,8 +3140,8 @@
     (property "Datasheet" "" (at 45.72 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a31c4975-8d2f-4a31-a848-1322057caff0))
-    (pin "2" (uuid 00b04d75-e7be-42eb-979f-fccede480613))
+    (pin "1" (uuid fc2dd85f-d106-4437-9c53-699efccd8376))
+    (pin "2" (uuid ff73747b-fcbf-403f-8d2a-e2a2c5e33baf))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3243,8 +3243,8 @@
     (property "Datasheet" "" (at 45.72 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 587d5350-6fd5-46b8-a1cf-683e7d56295a))
-    (pin "2" (uuid 88b839d0-3b92-45ce-afba-fe4d7ed5abee))
+    (pin "1" (uuid a1108e70-27b2-4597-aa17-91cf5bcffaed))
+    (pin "2" (uuid b6d4e8f2-cbfa-4c53-8177-d6d0f20f2e02))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3447,8 +3447,8 @@
     (property "Datasheet" "" (at 76.2 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b615abc4-1ef2-4bcf-a492-d98aebaa44cb))
-    (pin "2" (uuid c0adf532-1b00-413c-9248-e8dfb22274da))
+    (pin "1" (uuid 3c69fc79-8f5d-45e2-9579-413b7aaaa9fa))
+    (pin "2" (uuid 45110b9b-0d74-4533-976d-6dae516d8dcb))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3573,8 +3573,8 @@
     (property "Datasheet" "" (at 76.2 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 817bb8bd-e394-40ac-9eb1-26088b5f6fd2))
-    (pin "2" (uuid 51eba3ba-7611-4821-8f97-802660489e85))
+    (pin "1" (uuid 1fe94fa3-6f10-45a7-b413-1e9864f9a920))
+    (pin "2" (uuid 58cbdc1d-00ba-4774-9e31-81376e8e99d9))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3624,8 +3624,8 @@
     (property "Datasheet" "" (at 73.66 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e8d81ab3-2083-4fef-8494-b5ef0c6fd222))
-    (pin "2" (uuid e556c435-e2cf-4d5f-90d6-e9314bc3bfb3))
+    (pin "1" (uuid 3d429c9d-5133-4d0a-a50b-1df7d218f491))
+    (pin "2" (uuid 08b017e0-73c0-4b0a-b016-2a0d7f33dc40))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3650,8 +3650,8 @@
     (property "Datasheet" "" (at 154.94 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6ba2b156-9453-4942-8e7f-1f9f94ac26b1))
-    (pin "2" (uuid fd069a26-1de7-427e-bbe0-e4f5cf3e52de))
+    (pin "1" (uuid 798ba993-6c47-4acd-bf64-4c809510d419))
+    (pin "2" (uuid b7d82166-a74b-4731-b25e-499998d3cfd7))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3831,8 +3831,8 @@
     (property "Datasheet" "" (at 177.8 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b46eea2-fa99-419a-b6e9-eca9b6740b6f))
-    (pin "2" (uuid 3fd8df83-a028-4201-b0ea-d84c7b701319))
+    (pin "1" (uuid f2bb9cbd-c7af-42ec-924b-d1643970bf12))
+    (pin "2" (uuid df5d7546-e2d1-491c-868e-88cf2f48d7ab))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3857,8 +3857,8 @@
     (property "Datasheet" "" (at 177.8 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 08ca0dd2-df01-4463-8e3e-95bef091e65e))
-    (pin "2" (uuid be56f371-48d6-43b6-8825-6c23d0cca2d1))
+    (pin "1" (uuid e51f8dbc-e87c-4922-a9b4-1801ae3d9aa0))
+    (pin "2" (uuid b877686c-e12b-4cb3-a8d8-1a8cd6912d05))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3883,8 +3883,8 @@
     (property "Datasheet" "" (at 55.88 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 79bdf028-4a63-4044-8708-e162808faaa7))
-    (pin "2" (uuid affaecc0-3b1d-4ab0-a196-9015024f5787))
+    (pin "1" (uuid 6480dfa2-66e0-4108-9a9a-03811ccfa483))
+    (pin "2" (uuid bc5ae08b-cde5-4987-b5a3-c8e3e836229c))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3909,8 +3909,8 @@
     (property "Datasheet" "" (at 55.88 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2e6abd20-2443-4ae7-804f-379ec01277dc))
-    (pin "2" (uuid b3920fae-f635-4431-b9a7-f62cc9aab1ba))
+    (pin "1" (uuid dd1f314b-b29a-4aee-be21-407a19e49a2d))
+    (pin "2" (uuid 39b801d8-c9ca-4b48-a052-7666b46701ae))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -3935,8 +3935,8 @@
     (property "Datasheet" "" (at 134.62 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7ab8e583-59d2-4ce4-9922-8d7c21bb395d))
-    (pin "2" (uuid 8e1e2371-d29a-49f2-bcc6-309bddd2d66f))
+    (pin "1" (uuid 78d82b51-6148-4a54-aa04-e72675925246))
+    (pin "2" (uuid 5320549b-48f6-413e-9d84-1671f7e37566))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4087,8 +4087,8 @@
     (property "Datasheet" "" (at 76.2 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3bc5bc99-d0c0-473f-9b63-efdeb2892890))
-    (pin "2" (uuid e8ca723c-62f7-4807-9e8c-8ac4dd1d35fc))
+    (pin "1" (uuid 5ac31306-8edf-4593-b18d-240958c99ecc))
+    (pin "2" (uuid bb4c6be1-6208-432e-9acd-f173edbb905b))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4113,8 +4113,8 @@
     (property "Datasheet" "" (at 76.2 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 90205ff4-7192-4f04-860f-402db3639c05))
-    (pin "2" (uuid 48d4b751-4cce-498c-bd59-bc00deb43114))
+    (pin "1" (uuid e454c0f1-ebb6-416c-b18e-b602a242f4c9))
+    (pin "2" (uuid 1fd4e0c0-c4db-49a7-b908-8a630cfc06a5))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4279,8 +4279,8 @@
     (property "Datasheet" "" (at 83.82 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8a829e9d-4472-41ca-af0d-bd1f519f5384))
-    (pin "2" (uuid 25705ba1-f3b9-4289-a4ba-9ad1782bf177))
+    (pin "1" (uuid 6e365179-d0d1-4b94-9310-9331042f784b))
+    (pin "2" (uuid b56d995d-e66a-4add-86b1-b52b9e2d5091))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4488,8 +4488,8 @@
     (property "Datasheet" "" (at 83.82 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3a9f756e-2758-46f7-ad9b-788b775be9c9))
-    (pin "2" (uuid 6b2c5f01-2c49-4d01-a2c7-6bc007ef3b07))
+    (pin "1" (uuid 53f36616-6c95-465e-83bf-10d0d56ff8fd))
+    (pin "2" (uuid 5fff2398-e123-4d4d-a3a4-e90f80f5b7f0))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4539,8 +4539,8 @@
     (property "Datasheet" "" (at 45.72 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6c87c92b-9268-424b-ac73-2e802c505224))
-    (pin "2" (uuid cfb024a8-22ff-48dd-a9d3-86c0ad88e293))
+    (pin "1" (uuid 97dc599c-9433-4b87-a2a9-984454162e1e))
+    (pin "2" (uuid 30ed0ed1-5c91-4029-93a9-424388808929))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4707,8 +4707,8 @@
     (property "Datasheet" "" (at 177.8 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0aabad85-ff1c-45e3-ad93-c9e8b9f7b7e7))
-    (pin "2" (uuid 38f9d754-bbdf-4cec-9e5f-6c2ca915dd22))
+    (pin "1" (uuid 50ba51b4-0096-4421-ba43-6b4f3aef4661))
+    (pin "2" (uuid 13a6c9e0-ba58-453e-898a-f4f5a64c73f6))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4785,8 +4785,8 @@
     (property "Datasheet" "" (at 45.72 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba9a94e5-9600-4973-8998-0898c5054438))
-    (pin "2" (uuid 4962d35e-00a4-4b6a-8707-242881e25770))
+    (pin "1" (uuid f7ed8c13-bc5c-4621-bb6f-31708b3337df))
+    (pin "2" (uuid d4285a94-f83c-49ee-8253-a8eae1a32b03))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4920,8 +4920,8 @@
     (property "Datasheet" "" (at 45.72 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 50529cc1-ef20-4dfc-bd2b-b5358c932355))
-    (pin "2" (uuid 61c9837c-0966-47c3-9fd4-2c9500d26029))
+    (pin "1" (uuid 91858698-5a6f-42db-bdeb-20586870a565))
+    (pin "2" (uuid 92267cbb-5ce0-4302-b72e-09eab1c8b9b1))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -4946,8 +4946,8 @@
     (property "Datasheet" "" (at 76.2 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 536da10b-c029-46bb-8091-0c9f1b35dce9))
-    (pin "2" (uuid 64cbc1af-725f-4892-bbf7-55772af41d0c))
+    (pin "1" (uuid e5551696-6f28-4fbf-b24c-4245c61fa523))
+    (pin "2" (uuid 1fe19212-f861-4322-9b27-adce77945516))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -5027,8 +5027,8 @@
     (property "Datasheet" "" (at 83.82 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 568181ed-da58-4afd-973c-337f731494c5))
-    (pin "2" (uuid 6f9e621b-fac8-420f-946f-67ee5cb01223))
+    (pin "1" (uuid 59c53b51-6dd0-4686-9c3e-748c33d5cd05))
+    (pin "2" (uuid 38b89f27-7ed7-41bf-a99a-c1e7181c1811))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -5079,8 +5079,8 @@
     (property "Datasheet" "" (at 45.72 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a53cffe-7e6e-47bc-9534-d852aad7f71f))
-    (pin "2" (uuid 2f6a97f2-e9e7-4ea8-8d26-ae07bccdfcf3))
+    (pin "1" (uuid ed928840-6e30-42ed-bda2-21f034e10345))
+    (pin "2" (uuid babd817a-5381-4ac4-8871-0280076f45ec))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -5105,8 +5105,8 @@
     (property "Datasheet" "" (at 76.2 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3496e51-253e-4d1a-a6c8-ae4a46c6e77c))
-    (pin "2" (uuid 151cc089-7b82-4c1f-8403-a0281efab3fa))
+    (pin "1" (uuid b11797da-d46c-4d1a-83f2-2f1eca7f2c16))
+    (pin "2" (uuid 3c07ab98-1d83-426c-ac7a-84aed2357654))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -5243,8 +5243,8 @@
     (property "Datasheet" "" (at 55.88 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b8f56a6-2d51-41bf-8013-6d1504fd7af2))
-    (pin "2" (uuid e96a3b3a-cb1b-4cd2-8f3d-d6dd8f4c6ea8))
+    (pin "1" (uuid fbbc192c-0432-44d6-a652-97158d7c9a01))
+    (pin "2" (uuid 707ffe7b-cccb-434d-ad37-e11f2d3baea1))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"
@@ -5294,8 +5294,8 @@
     (property "Datasheet" "" (at 66.04 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0d1dac7d-5cda-48f1-903f-1c4042a0e025))
-    (pin "2" (uuid b326fcd3-e04c-4a07-9d78-fb21db9b1b47))
+    (pin "1" (uuid 3264c359-ae4d-4a03-9fca-28a927410c26))
+    (pin "2" (uuid d4cecd17-2920-497a-9562-955848381ef2))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/4b6a7124-8c29-4842-a68b-1b016941bb6d"

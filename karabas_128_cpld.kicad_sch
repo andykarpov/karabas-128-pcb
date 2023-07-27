@@ -2165,8 +2165,8 @@
     (property "Datasheet" "" (at 234.95 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 525cbf04-64db-47c7-89e4-0d3205e7b05b))
-    (pin "2" (uuid 6da9f4cf-3f33-4282-9bc4-aa961cf5e47a))
+    (pin "1" (uuid 5596eb68-8923-4efc-a7fa-94728b6f35d6))
+    (pin "2" (uuid 820a3de8-af78-4cb3-b07e-f323b47c03e0))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/f627de00-92d5-4d33-b09b-85f1ce1ea363"
@@ -2370,8 +2370,8 @@
     (property "Datasheet" "" (at 227.33 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea2868d2-4fda-40fb-86dc-a4ccad37d142))
-    (pin "2" (uuid a5905d26-9d0a-4f9c-a1b6-95fb232c4feb))
+    (pin "1" (uuid 0287fc90-4be5-4b63-b59b-8ae799ef6392))
+    (pin "2" (uuid 661a3eec-441c-4266-b789-13c459edb31a))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/f627de00-92d5-4d33-b09b-85f1ce1ea363"
@@ -2421,8 +2421,8 @@
     (property "Datasheet" "" (at 232.41 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a1faaf65-c170-4937-86ba-30b203a61c09))
-    (pin "2" (uuid 48ef5986-2e75-43ba-8737-fbf3d0b06cf2))
+    (pin "1" (uuid c0d8e715-c166-4c7d-ad1e-c9c812d70149))
+    (pin "2" (uuid 0f330ace-0eee-4082-b56a-820a8ba6dff5))
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/f627de00-92d5-4d33-b09b-85f1ce1ea363"
