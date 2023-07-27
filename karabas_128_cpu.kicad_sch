@@ -6035,7 +6035,7 @@
     (property "Reference" "D7" (at 57.15 22.3774 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Value" "1N4148DO35-7" (at 57.15 25.1714 0)
+    (property "Value" "1N4148" (at 57.15 25.1714 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Footprint" "karabas_128:DO35-7" (at 54.61 22.86 0)

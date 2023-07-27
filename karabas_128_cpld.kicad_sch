@@ -2548,7 +2548,7 @@
     (property "Reference" "IC10" (at 122.7582 100.0506 0)
       (effects (font (size 2.0828 1.7703)) (justify left bottom))
     )
-    (property "Value" "EPM7128STC100-15N" (at 117.8052 95.6056 0)
+    (property "Value" "EPM7128STC100" (at 117.8052 95.6056 0)
       (effects (font (size 2.0828 1.7703)) (justify left bottom))
     )
     (property "Footprint" "karabas_128:QFP50P1600X1600X120-100N" (at 128.27 101.6 0)
