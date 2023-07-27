@@ -251,38 +251,6 @@
         (effects (font (size 1.27 1.27)))
       )
       (symbol "EPM7128STC100-15N_1_0"
-        (polyline
-          (pts
-            (xy -22.86 -91.44)
-            (xy 22.86 -91.44)
-          )
-          (stroke (width 0.4064) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -22.86 86.36)
-            (xy -22.86 -91.44)
-          )
-          (stroke (width 0.4064) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 22.86 -91.44)
-            (xy 22.86 86.36)
-          )
-          (stroke (width 0.4064) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 22.86 86.36)
-            (xy -22.86 86.36)
-          )
-          (stroke (width 0.4064) (type solid))
-          (fill (type none))
-        )
         (pin bidirectional line (at -27.94 73.66 0) (length 5.08)
           (name "IO_2" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -682,6 +650,12 @@
         (pin bidirectional line (at 27.94 35.56 180) (length 5.08)
           (name "IO_69" (effects (font (size 1.27 1.27))))
           (number "99" (effects (font (size 1.27 1.27))))
+        )
+      )
+      (symbol "EPM7128STC100-15N_1_1"
+        (rectangle (start -22.86 86.36) (end 22.86 -91.44)
+          (stroke (width 0.254) (type default))
+          (fill (type background))
         )
       )
     )
@@ -1528,8 +1502,8 @@
     (uuid fed37dfa-bd98-4f7b-8520-5cdbae629d2e)
   )
 
-  (text "CPLD" (at 259.08 25.4 0)
-    (effects (font (size 5.08 4.318)) (justify left bottom))
+  (text "CPLD" (at 265.43 175.26 0)
+    (effects (font (size 3 3)) (justify left bottom))
     (uuid 6e87162d-3a37-43b7-b38b-b7344a45606f)
   )
 
@@ -2545,13 +2519,13 @@
   (symbol (lib_id "karabas_128-eagle-import:EPM7128STC100-15N") (at 128.27 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9b034f8-02d9-4f11-b3b5-d94bd631021e)
-    (property "Reference" "IC10" (at 122.7582 100.0506 0)
+    (property "Reference" "U11" (at 122.7582 100.0506 0)
       (effects (font (size 2.0828 1.7703)) (justify left bottom))
     )
     (property "Value" "EPM7128STC100" (at 117.8052 95.6056 0)
       (effects (font (size 2.0828 1.7703)) (justify left bottom))
     )
-    (property "Footprint" "karabas_128:QFP50P1600X1600X120-100N" (at 128.27 101.6 0)
+    (property "Footprint" "Package_QFP:TQFP-100_14x14mm_P0.5mm" (at 128.27 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 128.27 101.6 0)
@@ -2660,7 +2634,7 @@
     (instances
       (project "karabas_128"
         (path "/70a04a89-960f-41bf-b5c3-0fa551716ed9/f627de00-92d5-4d33-b09b-85f1ce1ea363"
-          (reference "IC10") (unit 1)
+          (reference "U11") (unit 1)
         )
       )
     )
